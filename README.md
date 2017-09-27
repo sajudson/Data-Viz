@@ -40,7 +40,7 @@ A simple bar chart showing the number of hurricanes by decade from 1911-2011. Da
 
 ## Other work
 
-### Messing around in D3
+### Messing about in D3
 ![abstract](thumbnails/ghd/preview.png)
 The interactive visulation can be found [here](https://sajudson.github.io/01-ghd3/index.html).
 
@@ -49,10 +49,17 @@ The interactive visulation can be found [here](https://sajudson.github.io/01-ghd
 ![R and ggplot2](https://github.com/sajudson/02-DataVis-10ways/blob/master/img/rggplot2_0.png)
 See the README.md [here](https://github.com/sajudson/02-DataVis-10ways) for a detailed analysis of 10 different visualization tools used to reproduce the same visualization and the design approach taken. The tools used included MS Excel (painful but possible), Tableau (easy but expensive), R's base graphics and ggplot2, Plot.ly via the R API, Python's matplotlib and Bokeh modules, d3, and HighCharts.
 
-### Animated transitions and semantic color mapping
+### Animated Transitions and Semantic Color Mapping
 ![bar to ring transition](https://github.com/sajudson/03-Animation/blob/master/img/bar2ring_500.png)
 
 The [visualization](https://sajudson.github.io/03-Animation/index.html) shows the transition of a bar chart into a ring or donut chart. A detailed description of the animation and design choices can be found [here](https://github.com/sajudson/03-Animation/blob/master/README.md) 
+
+
+### Other Works in Progress
+https://bl.ocks.org/sajudson/ad02a7cf9ba7fd7eed0017ecd4dd0b13
+https://bl.ocks.org/sajudson/8c527fe6a8bef275851f8e067892851a
+https://bl.ocks.org/sajudson/81785b46712ce7480ad2556800db9dde
+
 
 ## Data Sources
 
